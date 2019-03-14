@@ -5,4 +5,6 @@ This project aims to incoporate the P5.js library within React components, and e
 
 Created using creat react app
 
+When cloning, run `yarn` to install all dependencies. Then `yarn start` to start up the server.
+
 Created by lanelps.
